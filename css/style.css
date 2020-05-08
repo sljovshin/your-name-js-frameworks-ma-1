@@ -1,0 +1,9 @@
+#images {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
+    gap: 5px;
+}
+img {
+    width: 100%;
+}
